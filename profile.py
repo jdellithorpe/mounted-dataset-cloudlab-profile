@@ -1,7 +1,7 @@
 """This profile sets up a single node with a mounted CloudLab dataset. Useful
 for poking around or editing an existing dataset.
 
-Instructions: 
+Instructions:
 Dataset is mounted at /mnt/dataset
 """
 
